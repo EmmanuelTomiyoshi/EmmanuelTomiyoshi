@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning ... JavaScript, Css, Html
+- 🌱 I’m a Software Engineer student at 42sp
 
 <!--
 **EmmanuelTomiyoshi/EmmanuelTomiyoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
