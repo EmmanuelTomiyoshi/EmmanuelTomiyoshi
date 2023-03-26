@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m a Software Engineer student at 42sp
-- 🔭 I’m currently working with C and UNIX
+- 🔭 I’m currently working with C, C++ and UNIX
 
 <!--
 **EmmanuelTomiyoshi/EmmanuelTomiyoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
